@@ -1558,7 +1558,7 @@ msgstr "Brak ograniczeń"
 
 #: ../www/manager6/node/APT.js:156
 msgid "No updates available."
-msgstr ""
+msgstr "Brak aktualizacji."
 
 #: ../www/manager6/Utils.js:548
 #, fuzzy
@@ -2489,7 +2489,7 @@ msgstr "Podstawowy magazyn danych"
 #: ../www/manager6/lxc/Config.js:179 ../www/manager6/node/Config.js:295
 #: ../www/manager6/qemu/Config.js:175
 msgid "Task History"
-msgstr ""
+msgstr "Historia zdarzeń"
 
 #: ../www/manager6/window/TaskViewer.js:117
 msgid "Task type"
@@ -2672,7 +2672,7 @@ msgstr "Szablony"
 
 #: ../www/manager6/node/APT.js:85
 msgid "Upgrade"
-msgstr ""
+msgstr "Aktualizuj"
 
 #: ../www/manager6/storage/ContentView.js:240
 #: ../www/manager6/storage/ContentView.js:307
@@ -2877,7 +2877,7 @@ msgstr "Zasób"
 
 #: ../www/manager6/node/APT.js:171
 msgid "current"
-msgstr ""
+msgstr "bieżąca"
 
 #: ../www/manager6/Utils.js:753
 msgid "day"
@@ -2921,7 +2921,7 @@ msgstr "nigdy"
 
 #: ../www/manager6/node/APT.js:177
 msgid "new"
-msgstr ""
+msgstr "nowa"
 
 #: ../www/manager6/Utils.js:748
 msgid "none"
