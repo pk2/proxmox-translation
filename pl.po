@@ -48,7 +48,7 @@ msgstr "Aktywne"
 
 #: ../www/manager6/dc/AuthEdit.js:36 ../www/manager6/dc/AuthView.js:83
 msgid "Active Directory Server"
-msgstr ""
+msgstr "Serwer Active Directory"
 
 #: ../www/manager6/Utils.js:1095 ../www/manager6/dc/ACLView.js:195
 #: ../www/manager6/dc/AuthView.js:79 ../www/manager6/dc/Backup.js:392
@@ -1039,7 +1039,7 @@ msgstr ""
 #: ../www/manager6/button/HelpButton.js:10
 #: ../www/manager6/button/HelpButton.js:69
 msgid "Help"
-msgstr ""
+msgstr "Pomoc"
 
 #: ../www/manager6/ceph/Monitor.js:34 ../www/manager6/ceph/Monitor.js:176
 msgid "Host"
@@ -1180,7 +1180,7 @@ msgstr "Układ klawiatury"
 #: ../www/manager6/dc/AuthEdit.js:48 ../www/manager6/dc/AuthView.js:93
 #, fuzzy
 msgid "LDAP Server"
-msgstr "Serwer"
+msgstr "Serwer LDAP"
 
 #: ../www/manager6/dc/Guests.js:63 ../www/manager6/form/VMSelector.js:69
 #: ../www/manager6/form/VMSelector.js:79
@@ -2059,7 +2059,7 @@ msgstr ""
 
 #: ../www/manager6/lxc/CreateWizard.js:96
 msgid "SSH public key"
-msgstr ""
+msgstr "SSH klucz publiczny"
 
 #: ../www/manager6/node/StatusView.js:73
 #: ../www/manager6/panel/GuestStatusView.js:59
@@ -2093,7 +2093,7 @@ msgstr "Ładowanie..."
 #: ../www/manager6/panel/ConfigPanel.js:208
 #: ../www/manager6/storage/ContentView.js:486
 msgid "Search"
-msgstr "Search"
+msgstr "Wyszukaj"
 
 #: ../www/manager6/node/DNSEdit.js:16
 #, fuzzy
@@ -2640,7 +2640,7 @@ msgstr "Odmontuj"
 #: ../www/manager6/lxc/CreateWizard.js:223 ../www/manager6/lxc/Options.js:143
 #: ../www/manager6/window/Restore.js:61
 msgid "Unprivileged container"
-msgstr ""
+msgstr "Nieuprzywilejowany kontener"
 
 #: ../www/manager6/ceph/OSD.js:452
 msgid "Unset noout"
