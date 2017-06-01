@@ -66,7 +66,7 @@ msgstr "Dodaj"
 #: ../www/manager6/ceph/StatusDetail.js:261
 #, fuzzy
 msgid "Address"
-msgstr "adress IP"
+msgstr "adress"
 
 #: ../www/manager6/dc/Config.js:149 ../www/manager6/grid/FirewallAliases.js:48
 #: ../www/manager6/grid/FirewallAliases.js:78
@@ -239,27 +239,27 @@ msgstr "Ustawienia"
 #: ../www/manager6/node/Config.js:35
 #, fuzzy
 msgid "Bulk Actions"
-msgstr "Wybrane"
+msgstr "Operacje masowe"
 
 #: ../www/manager6/node/Config.js:67 ../www/manager6/node/Config.js:72
 #, fuzzy
 msgid "Bulk Migrate"
-msgstr "Migracja"
+msgstr "Migracja masowa"
 
 #: ../www/manager6/node/Config.js:41 ../www/manager6/node/Config.js:46
 #, fuzzy
 msgid "Bulk Start"
-msgstr "Uruchom"
+msgstr "Masowy start"
 
 #: ../www/manager6/node/Config.js:54 ../www/manager6/node/Config.js:59
 #, fuzzy
 msgid "Bulk Stop"
-msgstr "Zatrzymaj"
+msgstr "Masowe zatrzymanie"
 
 #: ../www/manager6/form/ControllerSelector.js:99
 #, fuzzy
 msgid "Bus/Device"
-msgstr "Usługa"
+msgstr "Bus/Device"
 
 #: ../www/manager6/qemu/CreateWizard.js:20
 #, fuzzy
